@@ -32,14 +32,6 @@
 | [Exercicio-Formulario](https://github.com/ZovicoDev/Exercicio-Formulario) | Formulário com validação de campos | HTML, CSS, JS |
 
 
-
-## 📊 Estatísticas
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZovicoDev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
 ## 🤝 Conecte-se
 
 <div align="center">
