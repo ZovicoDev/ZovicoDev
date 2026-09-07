@@ -27,9 +27,11 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [FooD-PeeK](https://github.com/ZovicoDev/FooD-PeeK) | Landing page desenvolvida com HTML5 e CSS3 para um restaurante/hamburgueria fictício, com foco em um design moderno, responsivo e visualmente atrativo. | HTML, CSS |
 | [landing-page-advocacia](https://github.com/ZovicoDev/landing-page-advocacia) | Landing page demonstrativa desenvolvida para um escritório de advocacia fictício, com foco em apresentação institucional, áreas de atuação e captação de contato para consultas jurídicas. | HTML, CSS |
+| [Servidor de Mídia com Docker e Jellyfin](https://github.com/ZovicoDev/netflix-free-media-server) | Servidor de mídia pessoal, similar ao Netflix, implementado com ferramentas de código aberto em uma VM Debian 12. |
+| [FooD-PeeK](https://github.com/ZovicoDev/FooD-PeeK) | Landing page desenvolvida com HTML5 e CSS3 para um restaurante/hamburgueria fictício, com foco em um design moderno, responsivo e visualmente atrativo. | HTML, CSS |
 | [Exercicio-Formulario](https://github.com/ZovicoDev/Exercicio-Formulario) | Formulário com validação de campos | HTML, CSS, JS |
+
 
 
 ## 🤝 Conecte-se
