@@ -10,11 +10,12 @@
 
 ## 👋 Sobre mim
 
-- 🎯 Estudante de programação, migrando de projetos de **front-end** (HTML/CSS/JS) para **full stack**
-- 💻 Praticando lógica com **Java** e construindo interfaces com **HTML, CSS e JavaScript**
-- 🚀 Trabalhando em projetos autorais para consolidar minha primeira vaga na área
-- 🌱 Aprendendo atualmente: <!-- ex: React, Node.js, SQL -->
-- 📫 Contato: <!-- seu e-mail --> · <!-- seu LinkedIn -->
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+- 🧠 Passei por lógica de programação em **C**, orientação a objetos em **Java**, banco de dados/**SQL** e conceitos de **cloud**
+- 💻 Atualmente aprofundando **desenvolvimento web** (HTML, CSS, JS) com o objetivo de atuar como dev **full stack**
+- 🚀 Construindo projetos práticos para consolidar essa base e buscar minha primeira vaga na área
+- 🌱 Aprendendo atualmente: Spring Boot
+- 📫 Contato: zovico.dev@gmail.com ||  https://www.linkedin.com/in/zovicodev/
 
 ## 🛠️ Tecnologias
 
@@ -26,11 +27,11 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [FooD-PeeK](https://github.com/ZovicoDev/FooD-PeeK) | <!-- descreva em 1 linha o que o projeto faz --> | HTML, CSS |
-| [landing-page-advocacia](https://github.com/ZovicoDev/landing-page-advocacia) | Landing page institucional para escritório de advocacia | HTML, CSS |
+| [FooD-PeeK](https://github.com/ZovicoDev/FooD-PeeK) | Landing page desenvolvida com HTML5 e CSS3 para um restaurante/hamburgueria fictício, com foco em um design moderno, responsivo e visualmente atrativo. | HTML, CSS |
+| [landing-page-advocacia](https://github.com/ZovicoDev/landing-page-advocacia) | Landing page demonstrativa desenvolvida para um escritório de advocacia fictício, com foco em apresentação institucional, áreas de atuação e captação de contato para consultas jurídicas. | HTML, CSS |
 | [Exercicio-Formulario](https://github.com/ZovicoDev/Exercicio-Formulario) | Formulário com validação de campos | HTML, CSS, JS |
 
-> 💡 Dica: adicione uma linha de descrição e um link de demo (Vercel/Netlify/GitHub Pages) em cada projeto acima.
+
 
 ## 📊 Estatísticas
 
