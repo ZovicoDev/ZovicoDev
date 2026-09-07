@@ -49,8 +49,8 @@
 <div align="center">
 
 <!-- Troque os links abaixo pelos seus -->
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/zovicodev/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:zovico.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 </div>
 
